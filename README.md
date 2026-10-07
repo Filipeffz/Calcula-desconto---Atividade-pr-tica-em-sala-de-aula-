@@ -1,4 +1,4 @@
-# 💳 CalculaDesconto
+# 💳 Calcular Desconto
 
 Um programa simples em **C** que calcula o valor final de uma compra aplicando descontos com base no valor gasto e no tipo de cliente (comum ou VIP).
 
